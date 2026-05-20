@@ -1,5 +1,4 @@
 # Cohort Assignment-2
-
 ## Task-1 Output
 ![Output](task1/output1.png)
 
