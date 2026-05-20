@@ -8,7 +8,7 @@
 
 ## Task-2 Output
 
-![Output](task%202/output2.png)
+![Output](task%202/output.png)
 
 ---
 
