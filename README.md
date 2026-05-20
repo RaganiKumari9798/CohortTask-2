@@ -1,9 +1,10 @@
 # Cohort Assignment-2
+
 ## Task-1 Output
-![Output](output1.png)
+![Output](task1/output1.png)
 
-## task-2 Output
-![Output](output.png)
+## Task-2 Output
+![Output](task2/output.png)
 
-## task-3 Output
-![Output](output3)
+## Task-3 Output
+![Output](task3/output3.png)
